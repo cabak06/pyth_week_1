@@ -1,0 +1,5 @@
+this line doesn't contain the char
+this line doesn't contain the char
+this line does contain @.sjdfhk
+this line doesn't contain the char
+this line does contain @.sjdfhk

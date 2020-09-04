@@ -1,0 +1,3 @@
+this line doesn't contain the char
+this line does contain @sfhkaj
+this line doesnt

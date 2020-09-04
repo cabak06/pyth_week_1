@@ -1,0 +1,11 @@
+cars.csv
+exercise2.txt
+file_to_read.txt
+mail1.txt
+mail2.txt
+md_file1.md
+md_file2.md
+md_output_file.txt
+output_file.txt
+utils.py
+week2.ipynb
