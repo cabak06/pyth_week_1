@@ -1,0 +1,11 @@
+stud_name,gender,course_name,teacher,ects,classroom,grade,img_url
+Hanne,Female,Math,Mrs Snow,30,200,12,https://pixabay.com/photos/three-wheeler-tricycle-trike-locked-336700/
+Jane,Female,Math,Mr. Wood,15,400,4,https://pixabay.com/photos/three-wheeler-tricycle-trike-locked-336700/
+Jane,Female,Math,Mr Twist,20,500,12,https://pixabay.com/illustrations/poison-bottle-medicine-old-symbol-1481596/
+Siv,Female,Business,Mr. Hook,10,200,7,https://pixabay.com/illustrations/poison-bottle-medicine-old-symbol-1481596/
+Jon,Male,Statistics,Mr. Hook,5,100,4,https://pixabay.com/illustrations/poison-bottle-medicine-old-symbol-1481596/
+Siv,Female,Statistics,Mr. Hook,25,100,2,https://pixabay.com/photos/hardwood-antique-backdrop-1851071/
+Hans,Male,Math,Mr Twist,5,200,10,https://pixabay.com/photos/sculpture-sand-sand-sculpture-70271/
+Siv,Female,Math,Mrs Snow,20,100,4,https://pixabay.com/photos/sculpture-sand-sand-sculpture-70271/
+Jon,Male,Math,Mr Twist,20,300,7,https://pixabay.com/photos/three-wheeler-tricycle-trike-locked-336700/
+Jane,Female,Business,Mr. Wood,5,100,10,https://pixabay.com/photos/three-wheeler-tricycle-trike-locked-336700/
