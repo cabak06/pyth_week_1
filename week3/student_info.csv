@@ -1,0 +1,11 @@
+stud_name,gender,course_name,teacher,ects,classroom,grade,img_url
+Peter,Female,Statistics,Miss Adler,30,100,-2,https://pixabay.com/illustrations/poison-bottle-medicine-old-symbol-1481596/
+Peter,Male,Statistics,Miss Adler,30,200,0,https://pixabay.com/photos/hardwood-antique-backdrop-1851071/
+Alfred,Male,Geography,Mr. Hook,10,500,10,https://pixabay.com/photos/sculpture-sand-sand-sculpture-70271/
+Siv,Female,Litterature,Mrs Snow,30,500,-2,https://pixabay.com/photos/hardwood-antique-backdrop-1851071/
+Alfred,Female,Math,Mr. Hook,25,300,7,https://pixabay.com/illustrations/poison-bottle-medicine-old-symbol-1481596/
+Hanne,Male,Statistics,Miss Adler,10,200,12,https://pixabay.com/photos/hardwood-antique-backdrop-1851071/
+Hanne,Female,Geography,Mr Twist,15,300,-2,https://pixabay.com/photos/three-wheeler-tricycle-trike-locked-336700/
+Peter,Male,Statistics,Mr. Wood,5,500,12,https://pixabay.com/photos/sculpture-sand-sand-sculpture-70271/
+Hans,Male,Science,Mr. Hook,15,100,10,https://pixabay.com/photos/friendship-fun-backlighting-funny-2366955/
+Svend,Male,Litterature,Mr. Hook,20,100,7,https://pixabay.com/photos/three-wheeler-tricycle-trike-locked-336700/
